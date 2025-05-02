@@ -1,0 +1,6 @@
+@AcademiaPortal_HostAddress = http://localhost:5137
+
+GET {{AcademiaPortal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
