@@ -1,0 +1,15 @@
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\bin\Debug\net8.0\AcademiaPortal.Core.deps.json
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\bin\Debug\net8.0\AcademiaPortal.Core.dll
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\bin\Debug\net8.0\AcademiaPortal.Core.pdb
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.AssemblyInfoInputs.cache
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.AssemblyInfo.cs
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.csproj.CoreCompileInputs.cache
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.sourcelink.json
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.dll
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\refint\AcademiaPortal.Core.dll
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.pdb
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\ref\AcademiaPortal.Core.dll
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\bin\Debug\net8.0\AcademiaPortal.Core.runtimeconfig.json
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.genruntimeconfig.cache
+D:\.NestAsp\AcademiaPortal\AcademiaPortal\AcademiaPortal.Core\obj\Debug\net8.0\AcademiaPortal.Core.csproj.AssemblyReference.cache
